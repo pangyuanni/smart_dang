@@ -1,0 +1,5 @@
+
+<view >
+  <view>{{list}}</view>
+</view>
+

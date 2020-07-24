@@ -1,0 +1,12 @@
+<!--vlinke_cparty/pages/test/test.wxml-->
+<view class="test">
+<view>姓名： {{s.username}}</view>
+<view>年龄：{{s.age}}</view>
+<view>密码：{{s.password}}</view>
+<view>邮箱：{{s.email}}</view>
+<view>性别：{{s.sex}}</view>
+<view>id: {{s.id}}</view>
+
+</view>
+<import src="/we7/pages/templates/footer.wxml"></import>
+<template is="footerWx" data="{{...tabBar}}"></template>

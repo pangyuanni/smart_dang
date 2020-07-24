@@ -1,0 +1,6 @@
+/* vlinke_cparty/pages/test/test.wxss */
+.test view{
+  color: blue;
+  background-color: chartreuse;
+  text-align: center;
+}

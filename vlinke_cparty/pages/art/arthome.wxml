@@ -1,0 +1,6 @@
+<!--vlinke_cparty/pages/art/arthome.wxml-->
+
+<view>是</view>
+
+<import src="/we7/pages/templates/footer.wxml"></import>
+<template is="footerWx" data="{{...tabBar}}"></template>
